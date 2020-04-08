@@ -1,3 +1,3 @@
 # gitcourse
 web school
-##project comands
+## project comands
